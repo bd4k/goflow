@@ -1,0 +1,8 @@
+hash: 83d4a5070081733e9c8b8c24bbf0cf726593c5b26a098e54042f954b97af93cb
+updated: 2017-09-23T14:08:19.810459414+02:00
+imports:
+- name: github.com/gorilla/websocket
+  version: 6f34763140ed8887aed6a044912009832b4733d7
+- name: github.com/nu7hatch/gouuid
+  version: 179d4d0c4d8d407a32af483c2354df1d2c91e6c3
+testImports: []

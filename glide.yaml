@@ -1,0 +1,4 @@
+package: github.com/roscopecoltran/goflow
+import:
+- package: github.com/gorilla/websocket
+- package: github.com/nu7hatch/gouuid
